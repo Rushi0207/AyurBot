@@ -1,3 +1,4 @@
+import os
 import gradio as gr
 
 from config import GEMINI_API_KEY, GEMINI_MODEL
